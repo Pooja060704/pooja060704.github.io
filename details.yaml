@@ -2,7 +2,7 @@ name: "Pooja Woli p"
 tagline: "Hobbyist Developer by day, Electronics Student by night"
 
 images:
-#  profile: "  "
+  profile: "assets/profile-picture.webp"
 
 qr_code:
   url: "https://pooja060704.github.io"
